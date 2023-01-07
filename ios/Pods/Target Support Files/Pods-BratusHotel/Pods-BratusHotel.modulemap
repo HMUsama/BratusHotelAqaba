@@ -1,0 +1,6 @@
+module Pods_BratusHotel {
+  umbrella header "Pods-BratusHotel-umbrella.h"
+
+  export *
+  module * { export * }
+}
