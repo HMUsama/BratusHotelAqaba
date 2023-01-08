@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">BratusHotel</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">6xcigDxDUVv7HHhb2YBHAY4ysKFQVVsPRvveP</string>
 </resources>
